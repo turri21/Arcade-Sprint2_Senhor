@@ -1,3 +1,8 @@
+-=(Sprint2_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # Sprint2
 
 FPGA implementation by james10952001 of [Sprint Two](https://github.com/james10952001/Sprint2 "Sprint Two") arcade game released by Kee Games in 1976
